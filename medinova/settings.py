@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-5=wa%mn$gijx=gb$^k-kn3n$ps%1d_@##95d3er)8452yd2)$%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["medinova.onrender.com"]
+ALLOWED_HOSTS = ["medinova-b5rj.onrender.com"]
 
 
 # Application definition
